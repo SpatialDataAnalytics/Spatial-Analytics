@@ -1,9 +1,6 @@
 ## Portfolio
 
 ---
-
-### Who am I?
-
 Skills
 <img src="images/MarkHart_Skills.png?raw=true"/>
 
