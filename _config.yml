@@ -3,8 +3,13 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   About Me 
   <br>I am passionate about evidence-based decision making and have lived at the nexus between data science and policy throughout my career. I love diving into the data in search of insights and then applying those insights in the real world. <br>
+  
+  
+  
   ...and my life
   <br>When I'm not wrangling data, I am wrangling my two sons into skis, onto bikes, and generally out into nature.<br>
+  
+  
   <a href="https://www.linkedin.com/in/mark-hart-81031899/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
