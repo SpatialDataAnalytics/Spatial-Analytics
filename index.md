@@ -16,7 +16,9 @@
 
 ---
 
-### Category Name 2
+#### Performance tracking
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/MarkHart_PerformanceTracking.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
