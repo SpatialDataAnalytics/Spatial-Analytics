@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[The Stack](/sample_page)
 <img src="images/MarkHart_Skills.png?raw=true"/>
 
 ---
