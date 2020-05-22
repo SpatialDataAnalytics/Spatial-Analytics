@@ -1,11 +1,9 @@
 ## Portfolio
-
 ---
-Skills
+### Skills
 <img src="images/MarkHart_Skills.png?raw=true"/>
 
 ### What can I do for you?
-
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
