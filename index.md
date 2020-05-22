@@ -4,7 +4,7 @@
 <img src="images/MarkHart_CompleteCommunities.png?raw=true"/>
 ## [Scenario testing](/images/MarkHart_ScenarioTesting.png)
 <img src="images/MarkHart_ScenarioTesting.png?raw=true"/>
-## [Performance tracking](/images/MarkHart_PerformanceTracking.png)
+## [Performance tracking](https://vancouver.ca/files/cov/duplex-use-in-rs-zones-proposed-zoning-ammendments.pdf)
 <img src="images/MarkHart_PerformanceTracking.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
