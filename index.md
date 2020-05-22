@@ -2,9 +2,9 @@
 <img src="images/MarkHart_Skills.png?raw=true"/>
 ## [Custom analysis and visualizations](/pdf/MakingRoom_Index_SummaryResults_Updated_.pdf)
 <img src="images/MarkHart_CompleteCommunities.png?raw=true"/>
-## [Scenario testing](http://example.com/)
+## [Scenario testing](/images/MarkHart_ScenarioTesting.png)
 <img src="images/MarkHart_ScenarioTesting.png?raw=true"/>
-## [Performance tracking](/pdf/sample_presentation.pdf)
+## [Performance tracking](/images/MarkHart_PerformanceTracking.png)
 <img src="images/MarkHart_PerformanceTracking.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
