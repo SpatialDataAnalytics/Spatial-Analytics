@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Who am I?
 
-[The Stack](/sample_page)
+Skills
 <img src="images/MarkHart_Skills.png?raw=true"/>
+
+### What can I do for you?
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
