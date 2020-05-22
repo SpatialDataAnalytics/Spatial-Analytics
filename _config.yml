@@ -1,11 +1,11 @@
 title: Mark Hart # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  About Me 
-  <br>I am passionate about evidence-based decision making and have lived at the nexus between data science and policy throughout my career. I love diving into the data in search of insights and then applying those insights in the real world. <br>
+  How can I help? 
+  <br>As a data science professional, I help clients find stories and solutions in their data. <br>
    <a href="https://www.linkedin.com/in/mark-hart-81031899/">View My LinkedIn Profile</a> 
 <br>
 
-</br>  
+<br>  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
