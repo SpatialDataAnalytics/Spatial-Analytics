@@ -2,9 +2,9 @@
 <img src="images/MarkHart_Skills.png?raw=true"/>
 ## [Custom analysis and visualizations](/pdf/sample_presentation.pdf)
 <img src="images/MarkHart_CompleteCommunities.png?raw=true"/>
-## Scenario testing - [Project 3 Title](http://example.com/)
+## [Scenario testing](http://example.com/)
 <img src="images/MarkHart_ScenarioTesting.png?raw=true"/>
-## Performance tracking - [Project 2 Title](/pdf/sample_presentation.pdf)
+## [Performance tracking](/pdf/sample_presentation.pdf)
 <img src="images/MarkHart_PerformanceTracking.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
